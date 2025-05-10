@@ -2,11 +2,9 @@
 
 A responsive React implementation of the "WeWantWaste" skip selection page, built with React and Tailwind CSS.
 
-<!-- ![Skip Selection Page Screenshot](https://via.placeholder.com/800x400?text=Skip+Selection+Page+Preview) -->
-
 ## 🚀 Demo
 
-View the live demo: [Skip Selection Page Demo](https://your-sandbox-link-here.com)
+View the live demo: [Skip Selection Page Demo](https://q349kv-5173.csb.app/)
 
 ## 📋 Project Overview
 
