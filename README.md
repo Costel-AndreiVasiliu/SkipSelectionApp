@@ -4,7 +4,7 @@ A responsive React implementation of the "WeWantWaste" skip selection page, buil
 
 ## 🚀 Demo
 
-View the live demo: [Skip Selection Page Demo](https://q349kv-5173.csb.app/)
+View the live demo: [Skip Selection Page Demo](https://z2wqpv-5173.csb.app/)
 
 ## 📋 Project Overview
 
