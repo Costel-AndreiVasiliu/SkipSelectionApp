@@ -54,17 +54,16 @@ This project is a redesign of the skip selection page for WeWantWaste. Users can
 
 - **React:** For building the user interface
 - **Tailwind CSS:** For styling components
-- **Axios:** For API requests
 - **Vite:** For fast development and optimized builds
 
 ## 📦 Installation
 
 ```bash
 # Clone the repository
-git clone https://github.com/your-username/skip-selection-redesign.git
+git clone https://github.com/Costel-AndreiVasiliu/SkipSelectionApp.git
 
 # Navigate to the project directory
-cd skip-selection-redesign
+cd SkipSelectionApp
 
 # Install dependencies
 npm install
